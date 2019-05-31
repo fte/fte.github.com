@@ -1,2 +1,2 @@
-# fte.github.com
-zou : http://fte.github.com
+# fte.github.io
+zou : http://fte.github.io
